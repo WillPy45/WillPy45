@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Willians Velazquez
 - 👀 I’m interested in programming topic, aplication development, and computer science
-- 🌱 I’m currently learning the second year of Computer Engineering
+- 🌱 I’m currently learning the second year of Computer Engineering (PY: Ingeniería en Informática)
 - 💞️ I’m looking to collaborate/work on software topics
 - ⚡ I like programming languages similar to C
 
